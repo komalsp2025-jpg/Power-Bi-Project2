@@ -1,0 +1,17 @@
+Developed an interactive Power BI dashboard using Superstore sales data to analyze business performance across sales, profit, orders, customers, regions, and product categories. The dashboard provides actionable insights through dynamic visualizations, KPI cards, filters, and trend analysis to support data-driven decision-making.
+
+Key Features
+Sales and Profit Analysis
+Regional Performance Tracking
+Category and Sub-Category Insights
+Customer Segment Analysis
+Interactive Slicers and Filters
+KPI Cards for Sales, Profit, and Orders
+Time-Series Trend Analysis
+Data Modeling and DAX Measures
+Tools & Technologies
+Power BI Desktop
+Power Query
+DAX (Data Analysis Expressions)
+Data Modeling
+Interactive Data Visualization
