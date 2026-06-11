@@ -1,0 +1,50 @@
+# E-Commerce Sales Dashboard | Power BI
+
+## Project Overview
+This project is an interactive E-Commerce Sales Dashboard developed in Power BI to analyze sales performance, profitability, customer behavior, and product trends. The dashboard transforms raw sales data into actionable business insights through dynamic visualizations and KPI tracking.
+
+## Objectives
+- Monitor overall sales and profit performance.
+- Analyze sales trends across different regions and categories.
+- Identify top-performing products and customers.
+- Track key business metrics to support data-driven decisions.
+
+## Key Features
+- Sales and Profit Analysis
+- Category and Sub-Category Performance
+- Customer Insights
+- Regional Sales Breakdown
+- Monthly Sales Trend Analysis
+- Interactive Filters and Slicers
+- Dynamic KPI Cards
+
+## Tools & Technologies
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Excel/CSV Dataset
+
+## Dashboard Insights
+- Identified top-performing product categories.
+- Analyzed sales and profit distribution across regions.
+- Tracked monthly revenue trends.
+- Evaluated customer purchasing behavior.
+- Highlighted opportunities for business growth.
+
+## Skills Demonstrated
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Calculations
+- Data Visualization
+- Business Intelligence Reporting
+- Dashboard Design
+
+## Project Outcome
+Developed a comprehensive dashboard that enables businesses to monitor sales performance, identify growth opportunities, and make informed strategic decisions through interactive reporting.
+
+## Dashboard Preview
+(Add dashboard screenshots here)
+
+## Author
+Komal Marathe
